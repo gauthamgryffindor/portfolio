@@ -11,8 +11,9 @@ const intro = () => {
           <br /> Web & App Developer
         </span>
         <p className="para">
-          I'm skilled in website and App development and passionate for learning
-          new technologies.
+          I am skilled in website and app development, passionate about learning
+          new technologies, and proficient in data structures and algorithms,
+          having solved over 100 problems on LeetCode.
         </p>
         <div className="buttonbox">
           <a href={resume} download>
