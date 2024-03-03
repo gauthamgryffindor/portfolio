@@ -1,0 +1,33 @@
+.box {
+  width: 100vw;
+  max-width: 60rem;
+  margin: 3rem 5rem;
+  padding: 2rem;
+  /* */
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
+ul {
+  list-style-type: none;
+}
+.p2 {
+  text-align: justify;
+  font-weight: 300;
+  font-size: 1rem;
+  max-width: 50rem;
+
+  padding: 0rem 1rem;
+}
+
+.cimg {
+  border-radius: 0%;
+  background-color: white;
+  height: 2rem;
+  width: 3rem;
+}
+.insidelinks {
+  padding-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}

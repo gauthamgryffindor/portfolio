@@ -1,0 +1,14 @@
+.App{
+    display:flex;
+    flex-wrap:wrap;
+}
+.items{
+    flex-grow:1;
+    flex-basis:200;
+}
+.items2{
+    flex-grow:1;
+    flex-basis:200;
+    border: "30 px solid red";
+    margin-right: "0 rem";
+}
