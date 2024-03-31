@@ -1,6 +1,6 @@
 import "./Intro.css";
 
-import resume from "../assets/Resume.pdf";
+import resume from "../assets/GauthamCV4.pdf";
 const intro = () => {
   return (
     <section className="intro" id="intro">
@@ -13,7 +13,7 @@ const intro = () => {
         <p className="para">
           I am skilled in website and app development, passionate about learning
           new technologies, and proficient in data structures and algorithms,
-          having solved over 100 problems on LeetCode.
+          having solved over 120+ problems on LeetCode.
         </p>
         <div className="buttonbox">
           <a href={resume} download>
