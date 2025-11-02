@@ -1,6 +1,6 @@
 import "./Intro.css";
 
-import resume from "../assets/GauthamCV9.pdf";
+import resume from "../assets/Gautham_R.pdf";
 const intro = () => {
   return (
     <section className="intro" id="intro">
